@@ -8,7 +8,7 @@ One funny line of 128 characters for make.fun's "One Line, One Laugh" bounty ($2
 
 The entry:
 
-> My smartwatch congratulated me for standing up today — the saddest applause I have ever received, and it came from my own wrist.
+> I asked my Wi-Fi for a sign. It gave me one bar, then left me on read.
 
 ## Run it
 
